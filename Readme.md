@@ -6,7 +6,7 @@
 [![C#](https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
-<img width="1486" height="812" alt="Screenshot 2026-11-11 212009" src="https://github.com/user-attachments/assets/657c2a75-7dde-4554-a641-85af78b441cd" />,<img width="1468" height="821" alt="Screenshot 2026-11-11 212211" src="https://github.com/user-attachments/assets/c8278b1d-178f-4e65-96e8-6571b9c399b1" />,<img width="1470" height="822" alt="Screenshot 2026-11-11 212059" src="https://github.com/user-attachments/assets/ea64866d-9989-408b-904e-7dc93b53eec0" />,<img width="1478" height="817" alt="Screenshot 2026-11-11 212132" src="https://github.com/user-attachments/assets/769d5be6-2105-46b2-bd53-8111ad721d3e" />
+<img width="1486" height="812" alt="Screenshot 2026-11-11 212009" src="https://github.com/user-attachments/assets/657c2a75-7dde-4554-a641-85af78b441cd" />,<img width="1920" height="1200" alt="Screenshot 2026-11-11 214326" src="https://github.com/user-attachments/assets/247d7e77-ac6f-4b75-acb7-f77de6bceb35" />,<img width="1468" height="821" alt="Screenshot 2026-11-11 212211" src="https://github.com/user-attachments/assets/c8278b1d-178f-4e65-96e8-6571b9c399b1" />,<img width="1470" height="822" alt="Screenshot 2026-11-11 212059" src="https://github.com/user-attachments/assets/ea64866d-9989-408b-904e-7dc93b53eec0" />,<img width="1478" height="817" alt="Screenshot 2026-11-11 212132" src="https://github.com/user-attachments/assets/769d5be6-2105-46b2-bd53-8111ad721d3e" />
 
 
 | :---: | :---: |
